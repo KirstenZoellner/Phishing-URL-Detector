@@ -1,0 +1,11 @@
+url,label
+https://www.example.com,0
+https://www.bank.de/login,0
+https://docs.python.org/3/tutorial/index.html,0
+http://www.uni-hannover.de/en/studies,0
+https://en.wikipedia.org/wiki/Phishing,0
+http://paypal-login-security-confirmation.com/account/update,1
+http://secure-login-verify-account-info.xyz,1
+https://bit.ly/2AbCdEf,1
+http://1.2.3.4:8080/confirm?user=alice&pass=free,1
+http://login-update-account.bank-secure.click/verify,1

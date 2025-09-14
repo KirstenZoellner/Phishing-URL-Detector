@@ -218,9 +218,9 @@ def main():
                 }
                 metrics_payload["holdout_thresholded"] = holdout_thr
 
-    # --- NEU: Holdout-Predictions (für spätere Vergleiche/ROC) ---
+    #  Holdout-Predictions (für spätere Vergleiche/ROC) 
     if best_fitted is not None:
-        # sicherstellen, dass wir Spaltennamen haben
+        # sicherstellen, dass es Spaltennamen gibt
         
         X_test_df = X_test if isinstance(X_test, pd.DataFrame) else pd.DataFrame(X_test, columns=feature_names)
         y_prob_holdout = _get_probabilities(best_fitted, X_test_df)
