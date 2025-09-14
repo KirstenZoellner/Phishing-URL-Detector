@@ -131,6 +131,12 @@ Konfusionsmatrix:
 
 ![Confusion Matrix](docs/confusion_matrix.png)
 
+ROC-Kurve:
+
+![ROC Curve](docs/roc_PHiUSIIL.png)
+
+Die gezeigten Visualisierungen basieren auf dem **PhiUSIIL Phishing URL Dataset** von Kaggle.  
+Quelle: [Kaggle – PhiUSIIL Phishing URL Datamining Project](https://www.kaggle.com/code/latif8/phiusiil-phishing-url-datamining-project)
 
 
 ## 10) Highlights
